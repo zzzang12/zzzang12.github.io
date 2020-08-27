@@ -95,13 +95,12 @@ analytics:
 author:
   name             : "이장원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아주대학교 소프트웨어학과 19학번"
-  location         : "아주대학교"
-  email            : wkddnjs3268@ajou.ac.kr
+  bio              : "Dept of Software, Ajou Univ"
+  location         : "Suwon, Republic of Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "wkddnjs3268@ajou.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zzzang12"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
